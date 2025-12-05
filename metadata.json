@@ -1,0 +1,7 @@
+{
+  "name": "VoltMate Kos",
+  "description": "Aplikasi monitoring listrik pintar khusus hunian kos dengan integrasi IoT.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
